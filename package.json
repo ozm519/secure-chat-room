@@ -1,0 +1,9 @@
+{
+  "name": "secure-chat-room",
+  "version": "1.0.0",
+  "description": "A secure chat room deployed on Cloudflare",
+  "main": "src/worker.js",
+  "scripts": {
+    "deploy": "wrangler deploy"
+  }
+}
